@@ -40,6 +40,8 @@ The website provides a smooth shopping experience with essential features like p
 ├── public/
 └── utils/
 
+Live: https://shophubco.vercel.app/
+
 ---
 
 ## ⚡ Getting Started
